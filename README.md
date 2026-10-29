@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-.NET+IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 JetBrains Rider Free Installer** — JetBrains Rider is a fast, powerful cross-platform . Works without internet access, no account required. Full offline installation.
+**💻 JetBrains Rider Free Installer** — JetBrains Rider is a cross-platform . Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About JetBrains Rider
 
-JetBrains Rider is a fast, powerful cross-platform .NET IDE combining ReSharper and IntelliJ technology. Supports C#, F#, VB.NET, ASP.NET, Unity, Xamarin, and .NET MAUI development. With deep .NET understanding, advanced refactoring, built-in Decompiler, and excellent Unity integration, Rider is the preferred .NET IDE for developers who want a cross-platform alternative to Visual Studio.
+JetBrains Rider is a cross-platform .NET IDE combining IntelliJ's platform with ReSharper's code intelligence. It provides deep C# and .NET support, Unity game development integration, and full cross-platform development capability on Windows, macOS, and Linux.
 
 ---
 
 ## ❌ Problem: JetBrains Rider is hard to access
 
-- **Commercial License** — Requires paid JetBrains subscription
-- **Resource Demands** — Heavy memory usage particularly with large .NET solutions
-- **Visual Studio Alternatives** — Some Windows-specific features better supported in Visual Studio
-- **Startup Time** — Slower startup than lightweight editors
+- **Paid Subscription** — No free community edition for .NET development
+- **Visual Studio Competition** — Microsoft Visual Studio is free for individual developers on Windows
+- **Resource Intensive** — Higher memory usage than lightweight editors
+- **Cross-Platform Priority** — Best value when developing .NET on macOS or Linux
 
 ---
 
@@ -121,7 +121,7 @@ JetBrains Rider is a fast, powerful cross-platform .NET IDE combining ReSharper 
 
 ---
 
-**JetBrains Rider Free Installer** — JetBrains Rider is a fast, powerful cross-platform . Install without internet connection today!
+**JetBrains Rider Free Installer** — JetBrains Rider is a cross-platform . Install without internet connection today!
 
 <div align="center">
 
